@@ -10,6 +10,10 @@ public class Main {
             if (list[i].isFile()) {
                 System.out.println(list[i]);
             }
+            else {
+
+            }
+
         }
     }
 }
